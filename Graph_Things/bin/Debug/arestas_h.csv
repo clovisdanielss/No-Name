@@ -1,0 +1,9 @@
+Source;Target;Type;Weight
+2;6;undirected;1
+2;7;undirected;1
+5;14;undirected;2
+5;17;undirected;2
+6;18;undirected;1
+9;19;undirected;1
+14;19;undirected;1
+17;18;undirected;1

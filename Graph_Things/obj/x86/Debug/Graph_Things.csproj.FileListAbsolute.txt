@@ -1,0 +1,5 @@
+C:\Users\Daniel\Documents\ProjectsC#\Graph_Things\Graph_Things\bin\Debug\Graph_Things.exe
+C:\Users\Daniel\Documents\ProjectsC#\Graph_Things\Graph_Things\bin\Debug\Graph_Things.pdb
+C:\Users\Daniel\Documents\ProjectsC#\Graph_Things\Graph_Things\obj\x86\Debug\Graph_Things.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\ProjectsC#\Graph_Things\Graph_Things\obj\x86\Debug\Graph_Things.exe
+C:\Users\Daniel\Documents\ProjectsC#\Graph_Things\Graph_Things\obj\x86\Debug\Graph_Things.pdb
